@@ -1,0 +1,13 @@
+# Ignore Google Cloud SDK
+google-cloud-sdk/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore temporary files
+*.log
+*.tmp
+.env
+
+# Ignore git repository
+.git

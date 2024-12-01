@@ -1,0 +1,3 @@
+node_modules/
+# Ignore Google Cloud SDK-related files
+google-cloud-sdk/
