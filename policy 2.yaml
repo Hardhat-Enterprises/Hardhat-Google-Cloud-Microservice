@@ -1,0 +1,4 @@
+etag: ACAB
+- members:
+  - allUsers
+  role: roles/run.invoker
