@@ -2,3 +2,4 @@ node_modules/
 # Ignore Google Cloud SDK-related files
 google-cloud-sdk/
 google-cloud-cli-442.0.0-darwin-x86_64.tar.gz
+google-cloud-sdk.staging/
